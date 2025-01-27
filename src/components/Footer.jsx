@@ -116,10 +116,11 @@ const Footer = () => {
                   <Smartphone className="w-5 h-5" />
                   Download iOS App
                 </button>
-                <button className="bg-white text-gray-900 px-4 py-2 rounded-lg font-medium hover:bg-gray-100 transition-colors duration-200 flex items-center justify-center gap-2">
+                
+                <a className="bg-white text-gray-900 px-4 py-2 rounded-lg font-medium hover:bg-gray-100 transition-colors duration-200 flex items-center justify-center gap-2">
                   <Smartphone className="w-5 h-5" />
                   Download Android App
-                </button>
+                </a>
               </div>
             </div>
           </div>

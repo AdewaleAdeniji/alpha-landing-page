@@ -29,10 +29,10 @@ const HeroAndFeatures = () => {
                   <Smartphone className="w-5 h-5" />
                   Download iOS App
                 </button>
-                <button className="bg-gray-900 text-white px-8 py-3 rounded-lg font-medium hover:bg-gray-800 transition-colors duration-200 flex items-center justify-center gap-2">
+                <a href="android-apk-luxelite.apk" download className="bg-gray-900 text-white px-8 py-3 rounded-lg font-medium hover:bg-gray-800 transition-colors duration-200 flex items-center justify-center gap-2">
                   <Smartphone className="w-5 h-5" />
                   Download Android App
-                </button>
+                </a>
               </div>
               <div className="mt-8 flex items-center justify-center lg:justify-start gap-8">
                 <div className="text-center">
