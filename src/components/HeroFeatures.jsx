@@ -29,7 +29,7 @@ const HeroAndFeatures = () => {
                   <Smartphone className="w-5 h-5" />
                   Download iOS App
                 </button>
-                <a href="android-apk-luxelite.apk" download className="bg-gray-900 text-white px-8 py-3 rounded-lg font-medium hover:bg-gray-800 transition-colors duration-200 flex items-center justify-center gap-2">
+                <a href="https://drive.google.com/file/d/1OizclwT27vkLh4HPdfYYHogg_4XOuDid/view?usp=sharing" download className="bg-gray-900 text-white px-8 py-3 rounded-lg font-medium hover:bg-gray-800 transition-colors duration-200 flex items-center justify-center gap-2">
                   <Smartphone className="w-5 h-5" />
                   Download Android App
                 </a>
