@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
           <div className="space-y-4">
-            <h3 className="text-2xl font-bold text-white mb-4">LuxeLite</h3>
+            <h3 className="text-2xl font-bold text-white mb-4">LuxElite</h3>
             <p className="text-gray-400">
               Professional security services at your fingertips. Book verified bodyguards 
               instantly through our mobile app.
@@ -98,11 +98,11 @@ const Footer = () => {
             <ul className="space-y-4">
               <li className="flex items-center space-x-3">
                 <Mail className="w-5 h-5 text-[#2A9D8F]" />
-                <span>support@luxelite.com</span>
+                <span>support@luxElite.com</span>
               </li>
               <li className="flex items-center space-x-3">
                 <Smartphone className="w-5 h-5 text-[#2A9D8F]" />
-                <span>1-800-LuxeLite</span>
+                <span>1-800-luxElite</span>
               </li>
               <li className="flex items-center space-x-3">
                 <MapPin className="w-5 h-5 text-[#2A9D8F]" />
