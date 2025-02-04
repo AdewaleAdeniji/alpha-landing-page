@@ -29,7 +29,7 @@ const HeroAndFeatures = () => {
                   <Smartphone className="w-5 h-5" />
                   Download iOS App
                 </button>
-                <a href="https://drive.google.com/file/d/1OizclwT27vkLh4HPdfYYHogg_4XOuDid/view?usp=sharing" download className="bg-gray-900 text-white px-8 py-3 rounded-lg font-medium hover:bg-gray-800 transition-colors duration-200 flex items-center justify-center gap-2">
+                <a href="https://api.codemagic.io/artifacts/.eJwVzUtygjAAANC7uHemAT_pwkWCBqIgCdEibBhUQIL8RD7x9G3fBd4sQ_9wVV-zjMMohPrYpZwNQroy3JqFihiSyaEJwFvaufe-23mnV9V6KlCgS3BItfuh2Sl1P26byMnK5woNp-ccY-doJcaZuSwnsoYiAHGs3y7zuAZ90qXTu-ZtFRjCqD5_16peLpJbu6LoDDVzqbe-jwx8vfVlr7Z5hEmp2B7OIzebAHl97y2b8OEDHNTQ9AIpPAla2IsWXDTFRp_ytASF8yAessEA4w-28geoRuZpo-B-r2dWgJKwh7hRrheKlJCrqX09xJ5S-ZLFburW7rCLzUXDf9BmM_sFRcJiYg.YrfsvDExNJ8ra8CM1_Q6Vzsy78c" download className="bg-gray-900 text-white px-8 py-3 rounded-lg font-medium hover:bg-gray-800 transition-colors duration-200 flex items-center justify-center gap-2">
                   <Smartphone className="w-5 h-5" />
                   Download Android App
                 </a>
