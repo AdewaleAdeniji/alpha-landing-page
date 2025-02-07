@@ -29,7 +29,7 @@ const HeroAndFeatures = () => {
                   <Smartphone className="w-5 h-5" />
                   Download iOS App
                 </button>
-                <a href="https://o0aii0w3h2.ufs.sh/f/RxfmJRSaLInjAyBc8pCuVitFCh4IrQH37DK0YGRoX6LTAsdl" download className="bg-gray-900 text-white px-8 py-3 rounded-lg font-medium hover:bg-gray-800 transition-colors duration-200 flex items-center justify-center gap-2">
+                <a href="https://o0aii0w3h2.ufs.sh/f/RxfmJRSaLInjwCj3VJxlK4o8cPUgANsXjdnT21LvfkF7HbxR" download className="bg-gray-900 text-white px-8 py-3 rounded-lg font-medium hover:bg-gray-800 transition-colors duration-200 flex items-center justify-center gap-2">
                   <Smartphone className="w-5 h-5" />
                   Download Android App
                 </a>
